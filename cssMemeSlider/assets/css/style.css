@@ -71,3 +71,31 @@ body {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.image-1 {
+    background: url('../images/1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.image-2 {
+    background: url('../images/2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.image-3 {
+    background: url('../images/3.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.image-4 {
+    background: url('../images/4.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
